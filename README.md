@@ -1,0 +1,1 @@
+This is a small repo of my adventures reading the book Programming Rust.
