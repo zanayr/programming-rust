@@ -1,1 +1,1 @@
-This is a small repo of my adventures reading the book Programming Rust.
+This is a small repository of my adventures reading the Programming Rust book.
