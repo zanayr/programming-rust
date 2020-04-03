@@ -1,0 +1,15 @@
+/Users/ryan/Documents/Learn/Rust/Programming Rust/02/iron-gcd/target/rls/debug/deps/serde-c8b9ceefbe1526ac.rmeta: /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/Users/ryan/Documents/Learn/Rust/Programming Rust/02/iron-gcd/target/rls/debug/deps/serde-c8b9ceefbe1526ac.d: /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs /Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs
+
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/lib.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/macros.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/bytes.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/mod.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/impls.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/value.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/de/from_primitive.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/iter.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/mod.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/ser/impls.rs:
+/Users/ryan/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-0.8.23/src/utils.rs:
